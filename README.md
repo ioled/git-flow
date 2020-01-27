@@ -19,7 +19,15 @@ Chorrocientos pituto ubicatex huevo duro bolsero cachureo el hoyo del queque en 
 | ------ | -------- |
 | Hola   | Mundo    |
 
+<<<<<<< HEAD
 ### Test4
 
 - [node.js] - evented I/O for the backend
 - [Express] - fast node.js network app framework [@tjholowaychuk]
+=======
+### Test1 Diego
+
+**Hilo curado rayuela carrete quina guagua lorea piola ni ahí**
+
+_Chorrocientos pituto ubicatex huevo duro bolsero cachureo el hoyo del queque en cana huevón el año del loly?_
+>>>>>>> f1dbd7a17f6f998dce49c4d6df83fdcf54053f66
