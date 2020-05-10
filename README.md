@@ -52,7 +52,6 @@ Hola mundo 31
 
 Esta es la tercera vez que trabajo en este commit
 
-<<<<<<< HEAD
 Hola mundo 31
 
 ### Test 11
@@ -60,8 +59,6 @@ Hola mundo 31
 Cacha que cambie mi teclado a teclado gringo y es hermoso
 
     
-=======
 ### Test 10
 
 Prueba de github actions labeler
->>>>>>> d243c5dd86036e32ddfa3235adca10b8031b1b73
