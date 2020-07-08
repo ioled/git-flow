@@ -63,14 +63,4 @@ Cacha que cambie mi teclado a teclado gringo y es hermoso
 
 Prueba de github actions labeler
 
-### Test 12
-
-Ruben qlo jalao, lleva como 5 equipos listos
-
-### Test 13 
-
-Platzi igual le pone wm aaaa
-
-### Test 14 
-
-Deseale un feliz dia de la madre a tu mama de mi parte.
+holahola hola 
