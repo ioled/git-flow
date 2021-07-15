@@ -83,3 +83,7 @@ Alguna mierda
 Probando git flow desde Paraguay! 
 
 ![Homer](homer-meme.gif)
+
+### Techi rules
+
+Techi rules
