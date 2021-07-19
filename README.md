@@ -2,6 +2,15 @@
 
 Repositorio para realizar pruebas de gitflow
 
+## 
+Nico de joda antes de empezar a trabajar en Ioled:
+
+![Messi-borracho](messi_borracho.png)
+
+Nico exactamente una semana después:
+
+![Messi-pelado](messi_pelado.png)
+
 ## Saludo al Pipe
 
 ![Cat](cat-meme.gif)
