@@ -1,0 +1,16 @@
+name: List
+
+on: [pull_request]
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2.4.0
+
+      - name: List
+        run: |
+          mkdir new-folder
+          ls -l 
+  
