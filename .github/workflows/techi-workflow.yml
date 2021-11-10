@@ -1,6 +1,6 @@
 name: List
 
-on: [push]
+on: [pull_request]
 
 jobs:
   list:
@@ -10,5 +10,7 @@ jobs:
       - uses: actions/checkout@v2.4.0
 
       - name: List
-        run: ls -l
+        run: |
+          mkdir new-folder
+          ls -l 
   
