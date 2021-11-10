@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/chekcout@v2.4.0
+      - uses: actions/checkout@v2.4.0
 
       - name: Hello iOLED
         run: echo "Hello iOLED from ${{ github.workflow }} triggered by ${{ github.event_name }} done by ${{ github.actor }}"
