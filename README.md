@@ -11,6 +11,8 @@ Nico exactamente una semana después:
 
 ![Messi-pelado](messi_pelado.png)
 
+Buena decisión trabajar en iOLED :)
+
 ## Saludo al Pipe
 
 ![Cat](cat-meme.gif)
