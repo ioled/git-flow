@@ -1,6 +1,17 @@
-# Git_flow
+# Ahora estamos en crypto!
 
 Repositorio para realizar pruebas de gitflow
+
+## 
+Nico de joda antes de empezar a trabajar en Ioled:
+
+![Messi-borracho](messi_borracho.png)
+
+Nico exactamente una semana después:
+
+![Messi-pelado](messi_pelado.png)
+
+Buena decisión trabajar en iOLED :)
 
 ## Saludo al Pipe
 
