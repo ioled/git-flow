@@ -1,6 +1,9 @@
-# Git_flow
+# Ahora estamos en crypto!
 
 Repositorio para realizar pruebas de gitflow
+
+##
+Aquí estuvo Nate
 
 ## 
 Nico de joda antes de empezar a trabajar en Ioled:
@@ -98,3 +101,8 @@ Probando git flow desde Paraguay!
 ### Techi rules
 
 Techi rules
+
+
+### Test 6 de Benja
+
+Wena los K
