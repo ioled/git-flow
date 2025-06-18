@@ -1,4 +1,6 @@
-# Ahora estamos en crypto!
+# Ahora estamos en IA
+
+# ~~Ahora estamos en crypto!~~
 
 Repositorio para realizar pruebas de gitflow
 
